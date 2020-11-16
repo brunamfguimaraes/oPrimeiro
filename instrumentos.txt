@@ -1,0 +1,5 @@
+Guitarra
+Baixo 
+Violão
+Bateria
+Teclado
